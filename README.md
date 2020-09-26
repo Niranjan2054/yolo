@@ -5,4 +5,4 @@ How to implement?
 
 `wget https://pjreddie.com/media/files/yolov3.weights`
 
-python3 detector.py --images dog-cycle-car.png --det det
+`python3 detector.py --images dog-cycle-car.png --det det`
